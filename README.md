@@ -6,7 +6,7 @@
 ![](https://jamescherti.com/misc/made-for-gnu-emacs.svg)
 
 - Author: James Cherti <[https://www.jamescherti.com/](https://www.jamescherti.com/)>
-- License: GPL
+- License: GPL 3.0 or later
 
 The **[ultisnips-mode](https://github.com/jamescherti/ultisnips-mode.el)** Emacs package provides syntax highlighting for editing Ultisnips snippet files (*.snippets files).
 
